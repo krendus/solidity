@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getByteCode1",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Proxy.sol": "Helper"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Proxy.sol": {
+			"keccak256": "0xd5b0074bbb88b0e2a376fb4c7c3167600c535ee6dbc1610dfe1afffcc652eaa7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://35191c884d35649aa7fdb079fb0fc2f81520c87f7c2d30aec4f6f5c05cfdabba",
+				"dweb:/ipfs/QmPP41QkmStrz9r3a7AtncuhnFaS29B1heWBmzmrtrggdK"
+			]
+		}
+	},
+	"version": 1
+}

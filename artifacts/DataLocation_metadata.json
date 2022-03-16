@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "y",
+						"type": "uint256[]"
+					}
+				],
+				"name": "example",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"DataLocations.sol": "DataLocation"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"DataLocations.sol": {
+			"keccak256": "0xeb032a8b44e66c046e37aa8f9b002139f5101bddbe7895c5c8c593d9ad6da8a4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e8de123ae053ed6bebe32da1c857e0062727e13c1d09acbe1e407f99d91178c8",
+				"dweb:/ipfs/QmNcQubvNhh1TdrwKgmrurASKem3sCVyNE5Qe3e3CAhhRk"
+			]
+		}
+	},
+	"version": 1
+}
